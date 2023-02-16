@@ -1,3 +1,3 @@
-# shecodes
+# The Cosmos Ladies
 
-[https://shecodes.io/](https://shecodes.io/)
+[https://www.thecosmosladies.dev/](https://www.thecosmosladies.dev/)
